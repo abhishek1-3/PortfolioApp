@@ -22,6 +22,13 @@ A modern and responsive Personal Portfolio Android Application built using Kotli
 
 ## 📸 Screenshots
 
+<p align="center">
+  <img src="screenshots/home.jpeg" width="200"/>
+  <img src="screenshots/projects.jpeg" width="200"/>
+  <img src="screenshots/skills.jpeg" width="200"/>
+  <img src="screenshots/contact.jpeg" width="200"/>
+</p>
+
 
 ## 📦 Installation
 
