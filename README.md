@@ -34,7 +34,7 @@ A modern and responsive Personal Portfolio Android Application built using Kotli
 
 Clone the repository:
 
-git clone https://github.com/abhishek1-3/your-repo-name.git
+git clone https://github.com/abhishek1-3/PortfolioApp.git
 
 Open in Android Studio
 
